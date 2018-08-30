@@ -1,0 +1,7 @@
+PIXIEDUO
+M:	Alfredo Cabral <alfredo.cabral@code-ing.com>
+M:	Valentina Fernandez <valentina.fernandez@code-ing.com>
+S:	Maintained
+F:	board/pixieboard/pixieduo/
+F:	include/configs/pixieduo.h
+F:	configs/pixieduo_defconfig

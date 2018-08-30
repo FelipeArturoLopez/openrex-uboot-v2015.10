@@ -1,0 +1,17 @@
+if TARGET_PIXIEDUO
+
+# customer board name
+config SYS_BOARD
+	default "pixieduo"
+
+config SYS_VENDOR
+	    default "pixieboard"
+
+config SYS_SOC
+	default "mx6"
+
+# customer board
+config SYS_CONFIG_NAME
+	default "pixieduo"
+
+endif
